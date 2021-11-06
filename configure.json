@@ -1,12 +1,12 @@
 {
   "directlink": [
     {
-      "name": "百度云",
-      "url": "http://api.dbyunzy.com/api.php/provide/vod/from/dbm3u8/?ac=list",
-      "gw": "http://help.apibdzy.com/",
+      "name": "蘑菇资源网",
+      "url": "http://360.tgzy.cc:1005/api.php/provide/vod/?ac=list",
+      "gw": "http://help.tgzy.cc/",
       "tag": "推荐采集",
-      "type": "dbm3u8",
-      "comment": "老牌资源网，资源丰富更新速度快，资源存储国内服务器秒播"
+      "type": "moguzyw",
+      "comment": "采集360影视，免费采集，热剧一应俱全！"
     },
     {
       "name": "八戒",
